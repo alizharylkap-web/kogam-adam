@@ -1,0 +1,17 @@
+{
+  "earth": {
+    "source_page": "https://svs.gsfc.nasa.gov/2915",
+    "source_file": "https://svs.gsfc.nasa.gov/vis/a000000/a002900/a002915/bluemarble-2048.png",
+    "credit": "NASA/Goddard Space Flight Center Scientific Visualization Studio; Blue Marble data courtesy of Reto Stockli (NASA/GSFC) and NASA Earth Observatory",
+    "reuse": "NASA texture imagery generally not subject to US copyright; factual web use allowed with source acknowledgement and no implied NASA endorsement",
+    "reuse_policy": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "projection": "Equirectangular, 2048x1024; top north, left -180 longitude, right +180 longitude; center 0 longitude"
+  },
+  "countries": {
+    "source_file": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+    "source_page": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/",
+    "reuse": "Public domain; optional credit Made with Natural Earth",
+    "reuse_policy": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "modifications": "Properties reduced to name (NAME_EN), iso_a3 (ADM0_A3), iso_n3 (ISO_N3); original coordinates preserved. 177 features; Kazakhstan iso_a3 KAZ."
+  }
+}
